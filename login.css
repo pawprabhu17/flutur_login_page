@@ -1,0 +1,51 @@
+.bg
+{
+  background-image: url("black-wallpapers.jpg");
+  background-size: cover;
+}
+.nav_img
+{
+    height: 2.65rem;
+    width: 12rem;
+    opacity: 0.70;
+}
+
+.log
+{
+    margin:5% 40% 4% 30%;
+    border: 10%;    
+    background-color:darkgoldenrod;
+}
+.cen
+{
+    margin: 5% 30% 0% 40%;
+    cursor: pointer;
+}
+.featured
+{
+   background-color:darkslategray;
+    margin:5% 0 2% 7%;
+}
+.featured:hover
+{
+    background-color: black;
+}
+.para
+{
+    margin-right: 60%;
+    color: gainsboro;
+    font-family:sans-serif;
+}
+.header
+{
+    color:dimgrey;
+    margin-right: 40%;
+}
+.para1
+{
+    font-size: 18px;
+    margin-left: 15%;
+    margin-right: 50%;
+    color: gainsboro;
+    font-family:sans-serif;
+}
